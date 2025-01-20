@@ -1,0 +1,938 @@
+[
+  {
+    "title": "Vintage Wooden Table",
+    "description": "A beautifully crafted wooden table, perfect for your dining room.",
+    "start_price": 50,
+    "reserve_price": 100
+  },
+  {
+    "title": "Mountain Bike",
+    "description": "A durable mountain bike suitable for all terrains.",
+    "start_price": 150,
+    "reserve_price": 300
+  },
+  {
+    "title": "Apple iPhone 12",
+    "description": "A slightly used iPhone 12 with 64GB storage in excellent condition.",
+    "start_price": 400,
+    "reserve_price": 600
+  },
+  {
+    "title": "Sony PlayStation 5",
+    "description": "The latest PS5 console, barely used and in original packaging.",
+    "start_price": 300,
+    "reserve_price": 500
+  },
+  {
+    "title": "Kitchen Blender",
+    "description": "High-performance kitchen blender with multiple speed settings.",
+    "start_price": 20,
+    "reserve_price": 50
+  },
+  {
+    "title": "Antique Wall Clock",
+    "description": "A vintage wall clock from the 19th century, still working.",
+    "start_price": 100,
+    "reserve_price": 250
+  },
+  {
+    "title": "Gaming Laptop",
+    "description": "Powerful gaming laptop with high-end graphics and fast performance.",
+    "start_price": 800,
+    "reserve_price": 1200
+  },
+  {
+    "title": "Leather Jacket",
+    "description": "Stylish leather jacket, barely worn, size M.",
+    "start_price": 50,
+    "reserve_price": 150
+  },
+  {
+    "title": "Garden Tools Set",
+    "description": "Complete garden tools set with everything you need for your garden.",
+    "start_price": 30,
+    "reserve_price": 70
+  },
+  {
+    "title": "LED TV 55 inch",
+    "description": "Smart LED TV, 55 inches, excellent picture quality.",
+    "start_price": 200,
+    "reserve_price": 400
+  },
+  {
+    "title": "Drone with Camera",
+    "description": "High-performance drone with a 4K camera for stunning aerial shots.",
+    "start_price": 250,
+    "reserve_price": 450
+  },
+  {
+    "title": "Electric Guitar",
+    "description": "A premium electric guitar in great condition with free accessories.",
+    "start_price": 200,
+    "reserve_price": 350
+  },
+  {
+    "title": "Coffee Maker",
+    "description": "Automatic coffee maker with built-in grinder and milk frother.",
+    "start_price": 80,
+    "reserve_price": 150
+  },
+  {
+    "title": "Men's Wrist Watch",
+    "description": "Elegant men's wristwatch with a leather strap.",
+    "start_price": 100,
+    "reserve_price": 200
+  },
+  {
+    "title": "Baby Stroller",
+    "description": "Lightweight and foldable baby stroller, perfect for travel.",
+    "start_price": 50,
+    "reserve_price": 100
+  },
+  {
+    "title": "Snowboard",
+    "description": "Durable snowboard, ideal for beginners and professionals.",
+    "start_price": 100,
+    "reserve_price": 250
+  },
+  {
+    "title": "Fishing Rod",
+    "description": "A high-quality fishing rod with a spinning reel included.",
+    "start_price": 30,
+    "reserve_price": 75
+  },
+  {
+    "title": "Smartwatch",
+    "description": "Feature-rich smartwatch with health and fitness tracking.",
+    "start_price": 120,
+    "reserve_price": 250
+  },
+  {
+    "title": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with excellent sound quality.",
+    "start_price": 40,
+    "reserve_price": 90
+  },
+  {
+    "title": "Camping Tent",
+    "description": "Spacious and durable camping tent for up to 4 people.",
+    "start_price": 70,
+    "reserve_price": 150
+  },
+  {
+    "title": "Electric Scooter",
+    "description": "Eco-friendly electric scooter with a 20km range.",
+    "start_price": 250,
+    "reserve_price": 400
+  },
+  {
+    "title": "Perfume Set",
+    "description": "Luxury perfume set with three different fragrances.",
+    "start_price": 30,
+    "reserve_price": 70
+  },
+  {
+    "title": "Photography Camera",
+    "description": "High-resolution DSLR camera with a lens kit included.",
+    "start_price": 400,
+    "reserve_price": 700
+  },
+  {
+    "title": "Men's Formal Shoes",
+    "description": "Comfortable and stylish formal shoes, size 10.",
+    "start_price": 40,
+    "reserve_price": 90
+  },
+  {
+    "title": "Vintage Vinyl Records",
+    "description": "Collection of classic vinyl records in excellent condition.",
+    "start_price": 50,
+    "reserve_price": 120
+  },
+  {
+    "title": "Home Theater System",
+    "description": "Complete home theater system with surround sound.",
+    "start_price": 300,
+    "reserve_price": 600
+  },
+  {
+    "title": "Laptop Backpack",
+    "description": "Durable and water-resistant laptop backpack with multiple compartments.",
+    "start_price": 20,
+    "reserve_price": 50
+  },
+  {
+    "title": "Electric Kettle",
+    "description": "Stainless steel electric kettle with fast boiling technology.",
+    "start_price": 15,
+    "reserve_price": 40
+  },
+  {
+    "title": "Barbecue Grill",
+    "description": "Portable barbecue grill, perfect for outdoor parties.",
+    "start_price": 50,
+    "reserve_price": 120
+  },
+  {
+    "title": "Women's Handbag",
+    "description": "Stylish women's handbag, perfect for daily use.",
+    "start_price": 30,
+    "reserve_price": 80
+  },
+  {
+    "title": "Road Bike",
+    "description": "Lightweight road bike with a comfortable design.",
+    "start_price": 200,
+    "reserve_price": 400
+  },
+  {
+    "title": "3D Printer",
+    "description": "High-precision 3D printer for home or office use.",
+    "start_price": 300,
+    "reserve_price": 600
+  },
+  {
+    "title": "Electric Lawn Mower",
+    "description": "Powerful electric lawn mower for easy lawn maintenance.",
+    "start_price": 150,
+    "reserve_price": 300
+  },
+  {
+    "title": "Set of Books",
+    "description": "A collection of best-selling novels in excellent condition.",
+    "start_price": 25,
+    "reserve_price": 60
+  },
+  {
+    "title": "Smartphone Case",
+    "description": "Durable and stylish case for iPhone 12.",
+    "start_price": 10,
+    "reserve_price": 25
+  },
+  {
+    "title": "Digital Piano",
+    "description": "High-quality digital piano with weighted keys and multiple functions.",
+    "start_price": 500,
+    "reserve_price": 900
+  },
+  {
+    "title": "Pet Carrier",
+    "description": "Comfortable and portable pet carrier for small dogs and cats.",
+    "start_price": 30,
+    "reserve_price": 70
+  },
+  {
+    "title": "Desk Chair",
+    "description": "Ergonomic desk chair with adjustable height and lumbar support.",
+    "start_price": 60,
+    "reserve_price": 150
+  },
+  {
+    "title": "Yoga Mat",
+    "description": "Non-slip yoga mat with extra cushioning for comfort.",
+    "start_price": 15,
+    "reserve_price": 35
+  },
+  {
+    "title": "Freestyle BMX Stunt Machine",
+    "description": "Perfect for high-flying tricks, this lightweight freestyle ride is built for durability.",
+    "start_price": 180,
+    "reserve_price": 350
+  },
+  {
+    "title": "Classic Penny Farthing Transporter",
+    "description": "A timeless large-wheeled transporter for enthusiasts and collectors.",
+    "start_price": 300,
+    "reserve_price": 700
+  },
+  {
+    "title": "Three-Wheel Adult Cruiser",
+    "description": "Comfortable three-wheeler designed for stable and smooth rides.",
+    "start_price": 350,
+    "reserve_price": 700
+  },
+  {
+    "title": "High-Performance Downhill Racer",
+    "description": "Engineered for speed and control on the steepest descents.",
+    "start_price": 500,
+    "reserve_price": 1200
+  },
+  {
+    "title": "Hardtail Trail Explorer",
+    "description": "Built for rugged terrain with a front suspension system for added comfort.",
+    "start_price": 400,
+    "reserve_price": 850
+  },
+  {
+    "title": "Ultra-Lightweight Carbon Hardtail",
+    "description": "Lightweight frame for quick ascents and precision on mountain trails.",
+    "start_price": 900,
+    "reserve_price": 1800
+  },
+  {
+    "title": "All-Terrain Fat-Tire Ride",
+    "description": "Wide tires for excellent traction on snow, sand, and muddy terrain.",
+    "start_price": 500,
+    "reserve_price": 1000
+  },
+  {
+    "title": "Retro Three-Wheel Cruiser",
+    "description": "Stylish three-wheeler with a vintage aesthetic for leisurely commutes.",
+    "start_price": 400,
+    "reserve_price": 800
+  },
+  {
+    "title": "Custom Painted BMX Frame",
+    "description": "Sturdy freestyle frame featuring a unique custom finish.",
+    "start_price": 120,
+    "reserve_price": 300
+  },
+  {
+    "title": "Compact Folding Commuter",
+    "description": "A folding two-wheeler perfect for city commutes and easy storage.",
+    "start_price": 250,
+    "reserve_price": 600
+  },
+  {
+    "title": "Ergonomic Recumbent Transport",
+    "description": "Comfortable recumbent design for relaxed long-distance journeys.",
+    "start_price": 600,
+    "reserve_price": 1200
+  },
+  {
+    "title": "Kid's Training Trike",
+    "description": "A colorful and stable three-wheeled ride for young learners.",
+    "start_price": 50,
+    "reserve_price": 120
+  },
+  {
+    "title": "Foldable Electric Commuter",
+    "description": "Compact electric-powered ride with a long-lasting battery.",
+    "start_price": 800,
+    "reserve_price": 1600
+  },
+  {
+    "title": "Ultra-Fast Track Racer",
+    "description": "A precision-engineered fixed-gear speedster for track competitions.",
+    "start_price": 400,
+    "reserve_price": 900
+  },
+  {
+    "title": "Fat Tire Off-Roader",
+    "description": "Built to conquer rough terrains with oversized wheels for stability.",
+    "start_price": 600,
+    "reserve_price": 1200
+  },
+  {
+    "title": "Hand-Crafted Wooden Balance Transporter",
+    "description": "A minimalist wooden two-wheeler for toddlers learning to balance.",
+    "start_price": 40,
+    "reserve_price": 100
+  },
+  {
+    "title": "Electric-Powered Trike for Seniors",
+    "description": "Comfortable electric three-wheeler with pedal assist for easy mobility.",
+    "start_price": 700,
+    "reserve_price": 1400
+  },
+  {
+    "title": "Compact Velodrome Sprint Frame",
+    "description": "Optimized lightweight frame for competitive sprinting events.",
+    "start_price": 300,
+    "reserve_price": 600
+  },
+  {
+    "title": "Dirt-Ready Trail Crusher",
+    "description": "Tough trail ride with reinforced suspension for dirt paths.",
+    "start_price": 450,
+    "reserve_price": 900
+  },
+  {
+    "title": "Miniature Penny Farthing Collectible",
+    "description": "A handcrafted small-scale replica of the classic penny farthing transporter.",
+    "start_price": 40,
+    "reserve_price": 80
+  },
+  {
+    "title": "Three-Wheel Cargo Carrier",
+    "description": "A sturdy three-wheeler with extra space for hauling groceries or goods.",
+    "start_price": 500,
+    "reserve_price": 1000
+  },
+  {
+    "title": "Professional Indoor Trainer",
+    "description": "Stationary workout machine for speed and endurance cycling practice.",
+    "start_price": 250,
+    "reserve_price": 600
+  },
+  {
+    "title": "Chopper-Style Two-Wheeler",
+    "description": "An elongated ride with a chopper-inspired frame for a unique cruising experience.",
+    "start_price": 300,
+    "reserve_price": 700
+  },
+  {
+    "title": "High-Performance Unicycle",
+    "description": "Sturdy single-wheeler built for skill development and advanced riders.",
+    "start_price": 120,
+    "reserve_price": 250
+  },
+  {
+    "title": "Cargo-Ready Three-Wheeler",
+    "description": "A practical and durable transporter with a large rear compartment.",
+    "start_price": 400,
+    "reserve_price": 800
+  },
+  {
+    "title": "Velomobile Enclosed Commuter",
+    "description": "A sleek and aerodynamic fully enclosed recumbent transporter.",
+    "start_price": 1200,
+    "reserve_price": 2500
+  },
+  {
+    "title": "Junior Freestyle BMX Ride",
+    "description": "Compact freestyle transport designed for younger stunt riders.",
+    "start_price": 150,
+    "reserve_price": 300
+  },
+  {
+    "title": "Trail-Ready Fat Tire Explorer",
+    "description": "Designed for snow, sand, and rugged trails with extra-wide wheels.",
+    "start_price": 450,
+    "reserve_price": 900
+  },
+  {
+    "title": "Luxury Tandem Cruiser",
+    "description": "A sleek two-seater designed for couples looking for smooth rides.",
+    "start_price": 700,
+    "reserve_price": 1400
+  },
+  {
+    "title": "BMX Dirt Jumper Frame",
+    "description": "Rugged and lightweight frame for dirt jumping enthusiasts.",
+    "start_price": 180,
+    "reserve_price": 350
+  },
+  {
+    "title": "Indoor Rollers for Training",
+    "description": "Precision rollers for perfecting your balance and cadence indoors.",
+    "start_price": 150,
+    "reserve_price": 300
+  },
+  {
+    "title": "Off-Road Downhill Rig",
+    "description": "A durable downhill setup built for extreme off-road descents.",
+    "start_price": 600,
+    "reserve_price": 1200
+  },
+  {
+    "title": "Recumbent Touring Rig",
+    "description": "Long-distance touring machine designed for ultimate comfort.",
+    "start_price": 800,
+    "reserve_price": 1600
+  },
+  {
+    "title": "Electric Cargo Hauler",
+    "description": "Battery-powered two-wheeler with a sturdy rear compartment for deliveries.",
+    "start_price": 900,
+    "reserve_price": 1800
+  },
+  {
+    "title": "Rugged Tricycle Hauler",
+    "description": "Heavy-duty three-wheeler built for carrying cargo on stable wheels.",
+    "start_price": 550,
+    "reserve_price": 1100
+  },
+  {
+    "title": "Single-Speed Fixed Gear Commuter",
+    "description": "Minimalist fixed-gear setup for urban travel.",
+    "start_price": 250,
+    "reserve_price": 500
+  },
+  {
+    "title": "Ultra-Light Stunt Setup",
+    "description": "A professional-level rig built for advanced tricks and jumps.",
+    "start_price": 300,
+    "reserve_price": 600
+  },
+  {
+    "title": "Carbon Fiber Hill Climber",
+    "description": "Lightweight, aerodynamic design ideal for climbing steep hills.",
+    "start_price": 800,
+    "reserve_price": 1600
+  },
+  {
+    "title": "Electric Mountain Bike",
+    "description": "Powerful e-MTB with a 250W motor and 21-speed gear system.",
+    "start_price": 800,
+    "reserve_price": 1500
+  },
+  {
+    "title": "Folding Commuter Bike",
+    "description": "Compact and lightweight folding bicycle for easy storage and commuting.",
+    "start_price": 200,
+    "reserve_price": 450
+  },
+  {
+    "title": "Vintage Road Bicycle",
+    "description": "Classic 10-speed road bike with drop handlebars and steel frame.",
+    "start_price": 150,
+    "reserve_price": 350
+  },
+  {
+    "title": "BMX Stunt Bike",
+    "description": "Durable BMX bike designed for tricks, jumps, and skatepark fun.",
+    "start_price": 180,
+    "reserve_price": 400
+  },
+  {
+    "title": "Kids' Balance Bike",
+    "description": "Beginner-friendly pushbike to help toddlers learn balance and coordination.",
+    "start_price": 50,
+    "reserve_price": 100
+  },
+  {
+    "title": "Cargo E-Bike",
+    "description": "Electric cargo bike with a large rear rack for carrying heavy loads.",
+    "start_price": 900,
+    "reserve_price": 1800
+  },
+  {
+    "title": "Hybrid City Bike",
+    "description": "Comfortable hybrid bike ideal for urban commuting and weekend rides.",
+    "start_price": 300,
+    "reserve_price": 600
+  },
+  {
+    "title": "Women's Cruiser Bike",
+    "description": "Stylish cruiser bike with a low-step frame and comfortable saddle.",
+    "start_price": 250,
+    "reserve_price": 450
+  },
+  {
+    "title": "Unicycle",
+    "description": "High-quality unicycle, perfect for beginners and performers.",
+    "start_price": 70,
+    "reserve_price": 150
+  },
+  {
+    "title": "Fat Tire Bike",
+    "description": "Off-road bike with oversized tires for sand and snow adventures.",
+    "start_price": 400,
+    "reserve_price": 800
+  },
+  {
+    "title": "Adult Tricycle",
+    "description": "Stable and easy-to-ride three-wheeled bike with a cargo basket.",
+    "start_price": 300,
+    "reserve_price": 600
+  },
+  {
+    "title": "Downhill Racing MTB",
+    "description": "Full-suspension mountain bike built for extreme downhill trails.",
+    "start_price": 600,
+    "reserve_price": 1200
+  },
+  {
+    "title": "Bike Repair Stand",
+    "description": "Adjustable stand to hold your bicycle for maintenance and repairs.",
+    "start_price": 60,
+    "reserve_price": 120
+  },
+  {
+    "title": "Cycling Helmet",
+    "description": "Lightweight and aerodynamic helmet with ventilation and safety certification.",
+    "start_price": 40,
+    "reserve_price": 80
+  },
+  {
+    "title": "Bike Cargo Trailer",
+    "description": "Sturdy cargo trailer for transporting goods with your bicycle.",
+    "start_price": 120,
+    "reserve_price": 250
+  },
+  {
+    "title": "Bicycle Repair Kit",
+    "description": "Complete repair kit with tools, tire levers, and patches.",
+    "start_price": 20,
+    "reserve_price": 50
+  },
+  {
+    "title": "Electric Scooter",
+    "description": "Compact and eco-friendly scooter for urban transportation.",
+    "start_price": 300,
+    "reserve_price": 500
+  },
+  {
+    "title": "Bikepacking Frame Bag",
+    "description": "Durable frame bag for storing essentials during bikepacking adventures.",
+    "start_price": 50,
+    "reserve_price": 100
+  },
+  {
+    "title": "Bike Lights Set",
+    "description": "Bright front and rear LED bike lights for night rides.",
+    "start_price": 25,
+    "reserve_price": 60
+  },
+  {
+    "title": "Bike Wall Mount Rack",
+    "description": "Space-saving rack for storing your bike on the wall.",
+    "start_price": 30,
+    "reserve_price": 70
+  },
+  {
+    "title": "Cycling Shoes with Cleats",
+    "description": "High-performance shoes compatible with clipless pedals.",
+    "start_price": 70,
+    "reserve_price": 150
+  },
+  {
+    "title": "Bike Computer",
+    "description": "Wireless bike computer with speed, distance, and GPS tracking.",
+    "start_price": 80,
+    "reserve_price": 180
+  },
+  {
+    "title": "Road Bike Wheelset",
+    "description": "Lightweight and aerodynamic wheelset for road cycling enthusiasts.",
+    "start_price": 200,
+    "reserve_price": 400
+  },
+  {
+    "title": "Bicycle Floor Pump",
+    "description": "Heavy-duty bike pump with a pressure gauge and ergonomic handle.",
+    "start_price": 35,
+    "reserve_price": 70
+  },
+  {
+    "title": "Mountain Bike Tires",
+    "description": "Pair of rugged MTB tires for off-road adventures.",
+    "start_price": 50,
+    "reserve_price": 120
+  },
+  {
+    "title": "Cycling Jersey",
+    "description": "Breathable cycling jersey with moisture-wicking fabric and rear pockets.",
+    "start_price": 40,
+    "reserve_price": 90
+  },
+  {
+    "title": "Bicycle Lock",
+    "description": "Heavy-duty bike lock with anti-theft steel cable and combination code.",
+    "start_price": 20,
+    "reserve_price": 50
+  },
+  {
+    "title": "Bicycle Chain Lubricant",
+    "description": "High-performance chain lubricant for smooth and quiet rides.",
+    "start_price": 10,
+    "reserve_price": 25
+  },
+  {
+    "title": "BMX Pegs Set",
+    "description": "Durable steel pegs for BMX bike tricks and grinds.",
+    "start_price": 15,
+    "reserve_price": 40
+  },
+  {
+    "title": "Bike Touring Panniers",
+    "description": "Weatherproof panniers with large storage capacity for touring cyclists.",
+    "start_price": 80,
+    "reserve_price": 150
+  },
+  {
+    "title": "Bicycle Mudguards",
+    "description": "Set of front and rear mudguards for bikes, perfect for rainy rides.",
+    "start_price": 25,
+    "reserve_price": 60
+  },
+  {
+    "title": "Electric Bike Conversion Kit",
+    "description": "DIY kit to convert your regular bike into an electric bike.",
+    "start_price": 300,
+    "reserve_price": 600
+  },
+  {
+    "title": "Bike Saddle Bag",
+    "description": "Compact saddle bag for carrying tools and small essentials.",
+    "start_price": 15,
+    "reserve_price": 40
+  },
+  {
+    "title": "Carbon Fiber Road Bike",
+    "description": "Ultra-lightweight carbon fiber road bike for competitive cyclists.",
+    "start_price": 1000,
+    "reserve_price": 2000
+  },
+  {
+    "title": "Bike Chain Cleaner Tool",
+    "description": "Easy-to-use tool for cleaning bicycle chains efficiently.",
+    "start_price": 20,
+    "reserve_price": 50
+  },
+  {
+    "title": "Kickstand for Mountain Bikes",
+    "description": "Adjustable kickstand compatible with most mountain bikes.",
+    "start_price": 15,
+    "reserve_price": 35
+  },
+  {
+    "title": "Spin Bike for Indoor Training",
+    "description": "Sturdy indoor spin bike with adjustable resistance and LCD display.",
+    "start_price": 250,
+    "reserve_price": 500
+  },
+  {
+    "title": "Children's Trike",
+    "description": "Fun and safe tricycle for toddlers, with a sturdy frame and basket.",
+    "start_price": 60,
+    "reserve_price": 120
+  },
+  {
+    "title": "Bike Trailer for Kids",
+    "description": "Two-seat bike trailer for safely towing kids on bike rides.",
+    "start_price": 150,
+    "reserve_price": 300
+  },
+  {
+    "title": "Electric Folding Bike",
+    "description": "Compact electric folding bike for commuters, with a 30km range.",
+    "start_price": 700,
+    "reserve_price": 1300
+  },
+  {
+    "title": "Rustic Pine Farmhouse Table",
+    "description": "A charming farmhouse dining table crafted from solid pine with natural grain details.",
+    "start_price": 150,
+    "reserve_price": 300
+  },
+  {
+    "title": "Antique Kauri Writing Desk",
+    "description": "Elegant kauri timber desk with intricate carvings and vintage hardware.",
+    "start_price": 200,
+    "reserve_price": 400
+  },
+  {
+    "title": "Handcrafted Rimu Coffee Table",
+    "description": "A stunning low-profile coffee table made from recovered rimu timber.",
+    "start_price": 180,
+    "reserve_price": 350
+  },
+  {
+    "title": "Solid Oak Dining Set",
+    "description": "Includes a dining table and six matching chairs built from solid oak for durability and style.",
+    "start_price": 500,
+    "reserve_price": 900
+  },
+  {
+    "title": "Vintage Veneer Sideboard",
+    "description": "Mid-century modern sideboard featuring a sleek veneer finish and ample storage.",
+    "start_price": 250,
+    "reserve_price": 500
+  },
+  {
+    "title": "Recovered Timber Hall Stand",
+    "description": "Sustainable hall stand crafted from reclaimed timber with rustic appeal.",
+    "start_price": 150,
+    "reserve_price": 300
+  },
+  {
+    "title": "Plywood Nordic Dining Table",
+    "description": "Minimalist dining table with a smooth plywood surface and contemporary design.",
+    "start_price": 220,
+    "reserve_price": 450
+  },
+  {
+    "title": "Bamboo Folding Room Divider",
+    "description": "Stylish and eco-friendly folding screen made entirely of sustainable bamboo.",
+    "start_price": 100,
+    "reserve_price": 200
+  },
+  {
+    "title": "Carved Mahogany Chest of Drawers",
+    "description": "Elegant mahogany dresser with ornate carvings and spacious compartments.",
+    "start_price": 400,
+    "reserve_price": 800
+  },
+  {
+    "title": "Walnut Mid-Century Console Table",
+    "description": "A sleek, walnut-finished console table with clean lines and retro charm.",
+    "start_price": 300,
+    "reserve_price": 600
+  },
+  {
+    "title": "Driftwood-Inspired Coffee Table",
+    "description": "Artistic coffee table designed to resemble natural driftwood for a beachy aesthetic.",
+    "start_price": 150,
+    "reserve_price": 350
+  },
+  {
+    "title": "Hardwood Patio Bench",
+    "description": "Durable outdoor bench built from weather-resistant hardwood materials.",
+    "start_price": 200,
+    "reserve_price": 400
+  },
+  {
+    "title": "Teak Garden Lounger",
+    "description": "Luxurious teak garden lounger with a reclining backrest for ultimate relaxation.",
+    "start_price": 300,
+    "reserve_price": 700
+  },
+  {
+    "title": "Polished Burlwood Accent Table",
+    "description": "Unique table crafted from burlwood with natural knots and polished finish.",
+    "start_price": 250,
+    "reserve_price": 500
+  },
+  {
+    "title": "Solid Timber Workbench",
+    "description": "Heavy-duty workbench perfect for woodworking or garage projects.",
+    "start_price": 300,
+    "reserve_price": 600
+  },
+  {
+    "title": "Acacia Nesting Tables",
+    "description": "Set of three stylish nesting tables crafted from acacia hardwood.",
+    "start_price": 180,
+    "reserve_price": 400
+  },
+  {
+    "title": "Elm Farmhouse Bench",
+    "description": "Long farmhouse-style seating bench built with sturdy elm timber.",
+    "start_price": 180,
+    "reserve_price": 350
+  },
+  {
+    "title": "Reclaimed Barn Door Table",
+    "description": "Rustic dining table created from a reclaimed barn door with a natural finish.",
+    "start_price": 450,
+    "reserve_price": 900
+  },
+  {
+    "title": "Ash Timber Rocking Chair",
+    "description": "Comfortable rocking chair made from durable ash with a classic design.",
+    "start_price": 220,
+    "reserve_price": 500
+  },
+  {
+    "title": "Mango Wood Display Cabinet",
+    "description": "Elegant cabinet featuring glass doors and sustainable mango wood construction.",
+    "start_price": 400,
+    "reserve_price": 800
+  },
+  {
+    "title": "Industrial Pallet Coffee Table",
+    "description": "Repurposed pallet table with a raw, industrial look and caster wheels.",
+    "start_price": 120,
+    "reserve_price": 300
+  },
+  {
+    "title": "Rosewood Corner Shelf",
+    "description": "A decorative corner shelf crafted from polished rosewood for a refined look.",
+    "start_price": 150,
+    "reserve_price": 350
+  },
+  {
+    "title": "Scandinavian Birch Nightstand",
+    "description": "Minimalist birch nightstand with clean lines and natural hues.",
+    "start_price": 100,
+    "reserve_price": 250
+  },
+  {
+    "title": "Driftwood Wall Mirror",
+    "description": "Unique decorative mirror framed with pieces of reclaimed driftwood.",
+    "start_price": 80,
+    "reserve_price": 180
+  },
+  {
+    "title": "Cherrywood Library Bookcase",
+    "description": "Elegant cherrywood shelving unit perfect for showcasing books and collectibles.",
+    "start_price": 400,
+    "reserve_price": 800
+  },
+  {
+    "title": "Cedar Hope Chest",
+    "description": "Handcrafted cedar chest with a beautiful aromatic interior for keepsakes.",
+    "start_price": 250,
+    "reserve_price": 500
+  },
+  {
+    "title": "Pine Ladder Shelf",
+    "description": "Modern leaning shelf unit made from durable pine with a natural finish.",
+    "start_price": 120,
+    "reserve_price": 250
+  },
+  {
+    "title": "Oak Barrel Wine Rack",
+    "description": "Stylish wine rack repurposed from an oak wine barrel for rustic charm.",
+    "start_price": 180,
+    "reserve_price": 350
+  },
+  {
+    "title": "Hand-Carved Ebony Stool",
+    "description": "A stunning stool crafted from dark ebony with detailed carvings.",
+    "start_price": 150,
+    "reserve_price": 300
+  },
+  {
+    "title": "Plywood Office Desk",
+    "description": "Modern, lightweight desk with a polished plywood surface and minimalist design.",
+    "start_price": 180,
+    "reserve_price": 350
+  },
+  {
+    "title": "Recovered Timber Dining Chairs",
+    "description": "Set of four sustainable chairs made from reclaimed timber with a natural finish.",
+    "start_price": 300,
+    "reserve_price": 600
+  },
+  {
+    "title": "Mahogany Sleigh Bed",
+    "description": "Classic mahogany bed frame with curved lines for a luxurious feel.",
+    "start_price": 700,
+    "reserve_price": 1400
+  },
+  {
+    "title": "Bamboo Shoe Rack",
+    "description": "Eco-friendly bamboo rack with multiple tiers for organized shoe storage.",
+    "start_price": 50,
+    "reserve_price": 120
+  },
+  {
+    "title": "Wicker Rattan Armchair",
+    "description": "Comfortable armchair with a handwoven rattan frame for natural style.",
+    "start_price": 250,
+    "reserve_price": 500
+  },
+  {
+    "title": "Polished Teak Side Table",
+    "description": "Compact teakwood side table with a sleek polished surface.",
+    "start_price": 200,
+    "reserve_price": 400
+  },
+  {
+    "title": "Hand-Carved Mango Wood Panel",
+    "description": "Decorative wall panel intricately carved from sustainable mango timber.",
+    "start_price": 180,
+    "reserve_price": 350
+  },
+  {
+    "title": "Beechwood Folding Chair",
+    "description": "Lightweight and versatile beechwood folding chair for easy storage.",
+    "start_price": 80,
+    "reserve_price": 180
+  },
+  {
+    "title": "Walnut Veneer Coffee Table",
+    "description": "Sophisticated coffee table with a rich walnut veneer finish.",
+    "start_price": 180,
+    "reserve_price": 400
+  },
+  {
+    "title": "Cedar Adirondack Chair",
+    "description": "A durable and stylish outdoor chair made from aromatic cedar.",
+    "start_price": 200,
+    "reserve_price": 450
+  }
+]
